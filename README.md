@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Pranav. Currently in High School. Would love to play CTFs and research on vulnerabilities. Also love playing Chess. ♔
+I am Pranav. Currently in High School. Would love to play CTFs and research on vulnerabilities. Trying to put all my learnings and experience into blogs. Here : http://tourpran.me
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pranavkrish04" />
 
