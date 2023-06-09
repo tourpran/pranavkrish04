@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Pranav. Currently an undergrad in Amrita University. Would love to play CTFs and research on vulnerabilities. Trying to put all my learnings and experience into blogs. Here : http://tourpran.ninja
+I am Pranav. Currently an undergrad in Amrita University. Would love to play CTFs and research on vulnerabilities. Trying to put all my learnings and experience into blogs. Here : http://pranavkrish04.github.io
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pranavkrish04" />
 
